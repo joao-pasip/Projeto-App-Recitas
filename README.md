@@ -11,4 +11,4 @@ Este Projeto Foi feito em grupo com os ótimos profissioais [Italo Lima](https:/
 
 É uma aplicação voltada para mobile, por isso se for abrir no computador por favor utilizar a resolução 360 x 640. 
 
-Para rodar localmente é necessário fazer o clone do repositório, depois instalar as dependências com 'npm install' e rodar com 'npm start'. Ou pode acessar [aqui]([pudim.com.br](https://fsipp-recipe-app.vercel.app/)).
+Para rodar localmente é necessário fazer o clone do repositório, depois instalar as dependências com 'npm install' e rodar com 'npm start'. Ou pode acessar [aqui](https://fsipp-recipe-app.vercel.app/).
